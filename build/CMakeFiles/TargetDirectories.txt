@@ -1,0 +1,3 @@
+/Users/bigaron/programming/the_book_of_C/build/CMakeFiles/Book.dir
+/Users/bigaron/programming/the_book_of_C/build/CMakeFiles/edit_cache.dir
+/Users/bigaron/programming/the_book_of_C/build/CMakeFiles/rebuild_cache.dir

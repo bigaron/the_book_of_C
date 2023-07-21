@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/bigaron/programming/the_book_of_C/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/cc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Book.dir/task2_7.c.o -c /Users/bigaron/programming/the_book_of_C/task2_7.c",
+  "file": "/Users/bigaron/programming/the_book_of_C/task2_7.c",
+  "output": "CMakeFiles/Book.dir/task2_7.c.o"
+}
+]
