@@ -1,8 +1,8 @@
 [
 {
-  "directory": "/Users/bigaron/programming/the_book_of_C/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/cc    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -o CMakeFiles/Book.dir/task2_7.c.o -c /Users/bigaron/programming/the_book_of_C/task2_7.c",
-  "file": "/Users/bigaron/programming/the_book_of_C/task2_7.c",
-  "output": "CMakeFiles/Book.dir/task2_7.c.o"
+  "directory": "F:/programming/the_book_of_C/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\Book.dir\\task2_8.c.obj -c F:\\programming\\the_book_of_C\\task2_8.c",
+  "file": "F:/programming/the_book_of_C/task2_8.c",
+  "output": "CMakeFiles/Book.dir/task2_8.c.obj"
 }
 ]

@@ -1,8 +1,10 @@
 file(REMOVE_RECURSE
-  "Book"
+  "Book.exe"
+  "Book.exe.manifest"
   "Book.pdb"
-  "CMakeFiles/Book.dir/task2_7.c.o"
-  "CMakeFiles/Book.dir/task2_7.c.o.d"
+  "CMakeFiles/Book.dir/task2_8.c.obj"
+  "CMakeFiles/Book.dir/task2_8.c.obj.d"
+  "libBook.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

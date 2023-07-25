@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/bigaron/programming/the_book_of_C/task2_7.c" "CMakeFiles/Book.dir/task2_7.c.o" "gcc" "CMakeFiles/Book.dir/task2_7.c.o.d"
+  "F:/programming/the_book_of_C/task2_8.c" "CMakeFiles/Book.dir/task2_8.c.obj" "gcc" "CMakeFiles/Book.dir/task2_8.c.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.
